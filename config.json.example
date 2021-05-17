@@ -1,3 +1,7 @@
 {
-  "token": ""S
+  "token": ""
+  "ubisoft": {
+    "email": "",
+    "password": ""
+  }
 }
